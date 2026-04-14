@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 important_commands.txt
+*.pt
+*.pth
